@@ -15,9 +15,9 @@ Important dates
 ---------------
 Please mark the following important dates on your calendar. Late work is absolutely not accepted, and missed exams cannot be made up except in extreme circumstances or with the prior permission of the instructor. 
 
-* Exam 1: TODO, in class
-* Exam 2: TODO, in class
-* Final exam: TODO, in regular classroom
+* Exam 1: Sept 30, in class
+* Exam 2: Nov 4, in class
+* Final exam: TBA, in regular classroom
 
 Catalog description
 -------------------
