@@ -27,7 +27,7 @@ Prerequisite: Either (CSE271 (with C-or above) and MTH 231) or (CSE271 (with C-o
 
 Required text: Will be provided free online. See homework assignments for assigned readings.
 
-Meetings: TODO, in Benton TODO.
+Meetings: MW 8:30a-9:50a, in Benton 002.
 
 Website: We will use Github as our primary means of distributing course materials. We will use Niihka for updates, tips, links, and so on. Please check Niihka regularly!
 
@@ -106,4 +106,49 @@ Students that refuse to sign the FERPA release will need to use alternative meth
 
 Schedule
 ========
-TODO
+* Week 0: Aug 26 - 30
+ * Topics: Intro to Data Structures and Git
+ * Assignment: https://github.com/MiamiOH-CSE274/01_Git_and_Intro - Due Sept 2, by midnight.
+* Week 1: Sept 2 - 6
+ * Monday is Labor Day - No Class
+ * Topics: Intro to C++
+ * Assignment: https://github.com/MiamiOH-CSE274/02_Cpp - Due Sept 9, by midnight.
+* Week 1.5: Sept 9 - 13
+ * Topics: Array-based lists
+ * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 16, by midnight.
+* Week 2.5: Sept 16 - 20
+ * Topics: Linked lists
+ * Assignment: TODO
+* Week 3.5: Sept 23 - 27
+ * Topics: Shuffling project, exam review
+ * Project: TODO
+* Week 4.5: Sept 30 - Oct 4
+ * Dr. Brinkman at ISMAR
+ * Topics: Exam 1 on Monday, Soring lab on Wednesday
+* Week 5.5: Oct 7 - 12
+ * Topics: Hashing
+ * Assignment: TODO
+ * Project: Zeitgeist
+* Week 6.5: Oct 14 - 18
+ * Topics: Binary search trees
+ * Assignment: TODO
+* Week 7.5: Oct 21 - 25
+ * Topics: Starbucks project
+ * Project: TODO
+* Week 8.5: Oct 28 - Nov 1
+ * Topics: Heaps, exam review
+* Week 9.5: Nov 4 - 8
+ * Topics: Exam 2 on Monday, Heap lab on Wednesday
+* Week 10.5: Nov 11 - 15
+ * Topics: Graphs
+ * Assigment: TODO
+* Week 11.5: Nov 18 - 22
+ * Topics: Graph algorithms
+ * Assignment: TODO
+* Week 12.5: Nov 25 - 29
+ * Topics: Graph project
+ * Project: TODO
+ * Thanksgiving break: No class Wed
+* Week 13: Dec 2 - 6
+ * Topics: Graph project and project portfolio
+* Final exams: Dec 9 - 13
