@@ -46,12 +46,12 @@ I do give +/- grades as appropriate.
 The value of the course work will be divided as follows: 
 
 * Tests (50%)	
-** Test 1	15%	
-** Test 2	15%	
-** Final	20%
+ * Test 1	15%	
+ * Test 2	15%	
+ * Final	20%
 * Course work (50%)	
-** Projects	50%
-** Labs are optional, but high quality lab submissions can count for up to 5% extra credit in your project grade. So if you only have 45% (out of 50%) on the projects, and you do all labs carefully, you will get 50%
+ * Projects	50%
+ * Labs are optional, but high quality lab submissions can count for up to 5% extra credit in your project grade. So if you only have 45% (out of 50%) on the projects, and you do all labs carefully, you will get 50%
 
 Due dates: All homework assignments and programming projects are due by noon on the due date. 
 
@@ -66,15 +66,15 @@ Exams: Exams 1 and 2 will take place during class. No outside materials are allo
 Programming Assignments: There will be take home assignments where the goal is to design and implement a computer program in the assigned programming language (C++) to solve a specific problem. All programming assignments are open source (more on this below). The following grading criteria will be used to evaluate the quality of most of your programs:
 
 * Basic requirements
-** Program compiles: Non-compiling programs receive a 0
-** Following specifications: Programs that fail to follow directions or do not implement the minimum level of functionality receive a 0
-** README.md: You must document carefully which parts of your program work and do not work in your README.md. Programs submitted without a README.md, or with a misleading or unhelpful one, will receive a 0.
-** Project video: Because of the open-ended nature of the projects it is impossible for me to automate grading. Therefore, for every project you must post a short video demo of your project on YouTube. You should discuss what you intended to do, why, what you actually accomplished, what went right, what went wrong, which parts of the code you wrote yourself, and what you got help on. You must include the link to the video in your README.md
+ * Program compiles: Non-compiling programs receive a 0
+ * Following specifications: Programs that fail to follow directions or do not implement the minimum level of functionality receive a 0
+ * README.md: You must document carefully which parts of your program work and do not work in your README.md. Programs submitted without a README.md, or with a misleading or unhelpful one, will receive a 0.
+ * Project video: Because of the open-ended nature of the projects it is impossible for me to automate grading. Therefore, for every project you must post a short video demo of your project on YouTube. You should discuss what you intended to do, why, what you actually accomplished, what went right, what went wrong, which parts of the code you wrote yourself, and what you got help on. You must include the link to the video in your README.md
 * Content requirements
-** Program accuracy and robustness
-** Program design
-** Testing adequacy
-** Analysis (if required)
+ * Program accuracy and robustness
+ * Program design
+ * Testing adequacy
+ * Analysis (if required)
 
 You will write fairly large programs during this semester, so expect to invest a considerable amount of time to correctly complete each program. Mastery of programming is directly proportional to time spent programming. 
 
