@@ -118,7 +118,7 @@ Schedule
  * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 16, by midnight.
 * Week 2.5: Sept 16 - 20
  * Topics: Linked lists
- * Assignment: TODO
+ * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 23, by midnight.
 * Week 3.5: Sept 23 - 27
  * Topics: Shuffling project, exam review
  * Project: TODO
