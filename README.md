@@ -124,7 +124,7 @@ Schedule
  * Project: TODO
 * Week 4.5: Sept 30 - Oct 4
  * Dr. Brinkman at ISMAR
- * Topics: Exam 1 on Monday, Soring lab on Wednesday
+ * Topics: Exam 1 on Monday, Sorting lab on Wednesday
 * Week 5.5: Oct 7 - 12
  * Topics: Hashing
  * Assignment: TODO
