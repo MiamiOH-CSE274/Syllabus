@@ -127,7 +127,7 @@ Schedule
  * Topics: Exam 1 on Monday, Sorting lab on Wednesday
 * Week 5.5: Oct 7 - 12
  * Topics: Hashing
- * Assignment: TODO
+ * Assignment: https://github.com/MiamiOH-CSE274/05_Hashing_Lab - Due Oct 14, by midnight.
  * Project: Zeitgeist
 * Week 6.5: Oct 14 - 18
  * Topics: Binary search trees
