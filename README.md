@@ -121,7 +121,7 @@ Schedule
  * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 23, by midnight.
 * Week 3.5: Sept 23 - 27
  * Topics: Shuffling project, exam review
- * Project: TODO
+ * Project: https://github.com/MiamiOH-CSE274/Shuffle - Due Oct 7, by midnight.
 * Week 4.5: Sept 30 - Oct 4
  * Dr. Brinkman at ISMAR
  * Topics: Exam 1 on Monday, Sorting lab on Wednesday
