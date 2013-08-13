@@ -15,9 +15,11 @@ Important dates
 ---------------
 Please mark the following important dates on your calendar. Late work is absolutely not accepted, and missed exams cannot be made up except in extreme circumstances or with the prior permission of the instructor. 
 
+* Last day to drop with no grade: Sept 13
 * Exam 1: Sept 30, in class
+* Last day to drop with a W grade: Oct 28
 * Exam 2: Nov 4, in class
-* Final exam: TBA, in regular classroom
+* Final exam: Dec 11, 8a-10a, in regular classroom
 
 Catalog description
 -------------------
@@ -25,6 +27,12 @@ Abstract data types and their implementation as data structures using object-ori
 
 Prerequisite: Either (CSE271 (with C-or above) and MTH 231) or (CSE271 (with C-or above) and MTH 222, MTH 251, and ECE 287).
 
+Miami Plan
+----------
+CSE274 is a third-tier course in the CSE "Computer Programming" thematic sequence. See http://www.units.muohio.edu/reg/bulletins/GeneralBulletin2012-2013/cse-2-computer-programming.htm
+
+Sources of instruction
+----------------------
 Required text: Will be provided free online. See homework assignments for assigned readings.
 
 Meetings: MW 8:30a-9:50a, in Benton 002.
