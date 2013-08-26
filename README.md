@@ -115,7 +115,7 @@ Schedule
 ========
 * Week 0: Aug 26 - 30
  * Topics: Intro to Data Structures and Git
- * Assignment: https://github.com/MiamiOH-CSE274/01_Git_and_Intro - Due Sept 2, by midnight.
+ * Assignment: https://github.com/MiamiOH-CSE274/01_Git_and_Intro - Due Sept 3, by midnight.
 * Week 1: Sept 2 - 6
  * Monday is Labor Day - No Class
  * Topics: Intro to C++
