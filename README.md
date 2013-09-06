@@ -9,7 +9,11 @@ Dr. W.J. "Bo" Brinkman, 205-G Benton Hall
 
 * Phone: 513-529-0354
 * Email: Bo.Brinkman@
-* Office hours: TBA
+* Office hours:
+  * M: 10-11:15
+  * T: 2-3:30
+  * W: 10-11:15
+  * F: 3:30-5
 
 Important dates
 ---------------
