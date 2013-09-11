@@ -126,7 +126,7 @@ Schedule
  * Assignment: https://github.com/MiamiOH-CSE274/02_Cpp - Due Sept 9, by 11:59pm.
 * Week 1.5: Sept 9 - 13
  * Topics: Array-based lists
- * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 16, by 11:59pm.
+ * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 18, by 11:59pm.
 * Week 2.5: Sept 16 - 20
  * Topics: Linked lists
  * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 23, by 11:59pm.
