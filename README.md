@@ -135,7 +135,7 @@ Schedule
  * Project: https://github.com/MiamiOH-CSE274/Shuffle - Due Oct 14, by 11:59pm.
 * Week 4.5: Sept 30 - Oct 4
  * Dr. Brinkman at ISMAR
- * Topics: Exam 1 on Monday, Sorting lab on Wednesday
+ * Topics: Exam 1 on Monday, https://github.com/MiamiOH-CSE274/Interactive-Debugging lab on Wednesday
 * Week 5.5: Oct 7 - 12
  * Topics: Hashing
  * Assignment: https://github.com/MiamiOH-CSE274/05_Hashing_Lab - Due Oct 21, by 11:59pm.
