@@ -145,7 +145,7 @@ Schedule
  * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Oct 21, by 11:59pm.
 * Week 7.5: Oct 21 - 25
  * Topics: Starbucks project
- * Project: Nearest Starbucks
+ * Project: Nearest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due Nov 4, by 11:59pm
 * Week 8.5: Oct 28 - Nov 1
  * Topics: Heaps, exam review
 * Week 9.5: Nov 4 - 8
