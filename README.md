@@ -149,7 +149,8 @@ Schedule
 * Week 8.5: Oct 28 - Nov 1
  * Topics: Heaps, exam review
 * Week 9.5: Nov 4 - 8
- * Topics: Exam 2 on Monday, Heap lab on Wednesday
+ * Topics: Exam 2 on Monday
+ * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Work in clas on Nov. 6
 * Week 10.5: Nov 11 - 15
  * Topics: Graphs
  * Assigment: TODO
