@@ -138,6 +138,7 @@ Schedule
  * Topics: Exam 1 on Monday, https://github.com/MiamiOH-CSE274/Interactive-Debugging lab on Wednesday
 * Week 5.5: Oct 7 - 12
  * Topics: Hashing
+ * Submit your https://github.com/MiamiOH-CSE274/Portfolio for midterm grading by Oct 10, 11:59pm
  * Assignment: https://github.com/MiamiOH-CSE274/05_Hashing_Lab - Due Oct 14, by 11:59pm.
  * Project: Zeitgeist, https://github.com/MiamiOH-CSE274/Zeitgeist - Due Oct 21, by 11:59pm.
 * Week 6.5: Oct 14 - 18
