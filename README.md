@@ -151,16 +151,16 @@ Schedule
  * Topics: Heaps, exam review
 * Week 9.5: Nov 4 - 8
  * Topics: Exam 2 on Monday
- * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Work in clas on Nov. 6
+ * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Work in class on Nov. 6
 * Week 10.5: Nov 11 - 15
  * Topics: Graphs
- * Assigment: TODO
+ * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
 * Week 11.5: Nov 18 - 22
  * Topics: Graph algorithms
  * Assignment: TODO
 * Week 12.5: Nov 25 - 29
  * Topics: Graph project
- * Project: TODO
+ * Project: Game project LINK TODO - Due Dec 4, by start of class (we will show YouTube video demos during class)
  * Thanksgiving break: No class Wed
 * Week 13: Dec 2 - 6
  * Topics: Graph project and project portfolio
