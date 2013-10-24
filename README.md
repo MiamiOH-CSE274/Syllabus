@@ -157,10 +157,10 @@ Schedule
  * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
 * Week 11.5: Nov 18 - 22
  * Topics: Graph algorithms
- * Assignment: TODO
+ * In-class design session
 * Week 12.5: Nov 25 - 29
  * Topics: Graph project
- * Project: Game project LINK TODO - Due Dec 4, by start of class (we will show YouTube video demos during class)
+ * Project: Game project https://github.com/MiamiOH-CSE274/Vise - Due Dec 4, by start of class (we will show YouTube video demos during class)
  * Thanksgiving break: No class Wed
 * Week 13: Dec 2 - 6
  * Topics: Graph project and project portfolio
