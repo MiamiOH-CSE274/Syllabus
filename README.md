@@ -156,7 +156,7 @@ Schedule
  * Topics: Graph traversals, Dijkstra, In-class work time
  * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
 * Week 11.5: Nov 18 - 22
- * Topics: 
+ * Topics: Sorting algorithms
  * Nov. 20: In-class design session
 * Week 12.5: Nov 25 - 29
  * Topics: 
