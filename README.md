@@ -145,23 +145,23 @@ Schedule
  * Topics: Binary search trees
  * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Oct 21, by 11:59pm.
 * Week 7.5: Oct 21 - 25
- * Topics: Starbucks project
+ * Topics: Starbucks project, Heaps
  * Project: Nearest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due Nov 4, by 11:59pm
-* Week 8.5: Oct 28 - Nov 1
- * Topics: Heaps, exam review
-* Week 9.5: Nov 4 - 8
- * Topics: Exam 2 on Monday
  * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Work in class on Nov. 6
+* Week 8.5: Oct 28 - Nov 1
+ * Topics: Graphs, exam review
+* Week 9.5: Nov 4 - 8
+ * Topics: Exam 2 on Monday, Graphs
 * Week 10.5: Nov 11 - 15
- * Topics: Graphs
+ * Topics: Graph traversals, Dijkstra, In-class work time
  * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
 * Week 11.5: Nov 18 - 22
- * Topics: Graph algorithms
- * In-class design session
+ * Topics: 
+ * Nov. 20: In-class design session
 * Week 12.5: Nov 25 - 29
- * Topics: Graph project
+ * Topics: 
  * Project: Game project https://github.com/MiamiOH-CSE274/Vise - Due Dec 4, by start of class (we will show YouTube video demos during class)
  * Thanksgiving break: No class Wed
 * Week 13: Dec 2 - 6
- * Topics: Graph project and project portfolio
+ * Topics: Graph project and project portfolio, exam review
 * Final exams: Dec 9 - 13
