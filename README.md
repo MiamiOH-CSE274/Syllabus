@@ -164,4 +164,5 @@ Schedule
  * Thanksgiving break: No class Wed
 * Week 13: Dec 2 - 6
  * Topics: Graph project and project portfolio, exam review
+ * PORTFOLIO SUBMISSION: Due by 8am, Monday, Dec. 9
 * Final exams: Dec 9 - 13
