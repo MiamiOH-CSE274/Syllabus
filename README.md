@@ -35,7 +35,7 @@ Sources of instruction
 ----------------------
 Required text: Will be provided free online. See homework assignments for assigned readings.
 
-Meetings: TR 11:30a-12:50a, in Benton 006.
+Meetings: TR 11:30a-12:50p, in Benton 006.
 
 Communications: I will send communications to your Miami email. You must check it at least once per day, even on the weekend.
 
