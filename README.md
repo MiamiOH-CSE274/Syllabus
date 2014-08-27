@@ -10,7 +10,11 @@ Dr. W.J. "Bo" Brinkman, 205-G Benton Hall
 * Phone: 513-529-0354
 * Email: Bo.Brinkman@
 * Office hours:
-  * TBD
+  * My office hours (in 205G Benton)
+    * M: 9:30a-11:30a and 1:30p-3:30p
+    * Th: 1:00p-3:15p
+  * Carly's office hours (in 002 Benton)
+    * M: 6p-10p (Note: Carly is the TA for 464, not 274. She is willing to help, but her first priority is to help the 464 students)
 
 Important dates
 ---------------
