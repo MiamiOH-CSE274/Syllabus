@@ -126,7 +126,7 @@ Schedule
  * Assignment: https://github.com/MiamiOH-CSE274/01_Git_and_Intro - Due Sept 2, by 11:59pm.
 * Week 1: Aug 31 - Sept 6
  * Topics: Intro to C++
- * Assignment: https://github.com/MiamiOH-CSE274/02_Cpp - Due Sept 9, by 11:59pm.
+ * Assignment: https://github.com/MiamiOH-CSE274/02_Cpp - Due Sept 11, by 11:59pm.
 * Week 2: Sept 7 - 13
  * Topics: Array-based lists
  * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 16, by 11:59pm.
