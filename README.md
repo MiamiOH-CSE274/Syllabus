@@ -129,10 +129,10 @@ Schedule
  * Assignment: https://github.com/MiamiOH-CSE274/02_Cpp - Due Sept 11, by 11:59pm.
 * Week 2: Sept 7 - 13
  * Topics: Array-based lists
- * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 16, by 11:59pm.
+ * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 18, by 11:59pm.
 * Week 3: Sept 14 - 20
  * Topics: Linked lists
- * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 23, by 11:59pm.
+ * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 25, by 11:59pm.
 * Week 4: Sept 21 - 27
  * Topics: Interactive debugging, https://github.com/MiamiOH-CSE274/Interactive-Debugging, on Tuesday
  * Topics: Hashing
