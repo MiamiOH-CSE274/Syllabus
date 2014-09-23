@@ -127,23 +127,23 @@ Schedule
 * Week 1: Aug 31 - Sept 6
  * Topics: Intro to C++
  * Assignment: https://github.com/MiamiOH-CSE274/02_Cpp - Due Sept 11, by 11:59pm.
-* Week 2: Sept 7 - 13
+* Week 2 & 3: Sept 7 - 20
  * Topics: Array-based lists
  * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 18, by 11:59pm.
-* Week 3: Sept 14 - 20
- * Topics: Linked lists
- * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 25, by 11:59pm.
 * Week 4: Sept 21 - 27
+ * Topics: Linked lists
+ * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 30, by 11:59pm.
+* Week 5: Sept 28 - Oct 4
  * Topics: Interactive debugging, https://github.com/MiamiOH-CSE274/Interactive-Debugging, on Tuesday
  * Topics: Hashing
  * Assignment: https://github.com/MiamiOH-CSE274/05_Hashing_Lab - Due Oct 7, by 11:59pm.
-* Week 5: Sept 28 - Oct 4
+* Week 6: Oct 5 - 11
  * Topics: More Hashing, Portfolios
  * Submit your https://github.com/MiamiOH-CSE274/Portfolio for midterm grading by Oct 7, 11:59pm
-* Week 6: Oct 5 - 11
+* Week 7: Oct 12 - 18
  * Topics: Binary search trees
  * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Oct 14, by 11:59pm.
-* Week 7: Oct 12 - 18
+* Week 7: Oct 12 - 18 TODO
  * Topics: Starbucks project, Exam review (Thursday)
  * Project: Closest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due Oct 28, by 11:59pm
 * Week 8: Oct 19 - 25
