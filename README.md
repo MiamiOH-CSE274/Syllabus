@@ -134,10 +134,10 @@ Schedule
  * Topics: Linked lists
  * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 30, by 11:59pm.
 * Week 5: Sept 28 - Oct 4
- * Topics: Interactive debugging, https://github.com/MiamiOH-CSE274/Interactive-Debugging, on Tuesday
  * Topics: Hashing
  * Assignment: https://github.com/MiamiOH-CSE274/05_Hashing_Lab - Due Oct 7, by 11:59pm.
 * Week 6: Oct 5 - 11
+ * Topics: Interactive debugging, https://github.com/MiamiOH-CSE274/Interactive-Debugging, on Tuesday
  * Topics: More Hashing, Portfolios
  * Submit your https://github.com/MiamiOH-CSE274/Portfolio for midterm grading by Oct 7, 11:59pm
 * Week 7: Oct 12 - 18
