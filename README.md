@@ -140,32 +140,30 @@ Schedule
  * Topics: Interactive debugging, https://github.com/MiamiOH-CSE274/Interactive-Debugging, on Tuesday
  * Topics: More Hashing, Portfolios
  * Submit your https://github.com/MiamiOH-CSE274/Portfolio for midterm grading by Oct 7, 11:59pm
-* Week 7: Oct 12 - 18
- * Topics: Binary search trees
- * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Oct 14, by 11:59pm.
 * Week 7: Oct 12 - 18 TODO
- * Topics: Starbucks project, Exam review (Thursday)
- * Project: Closest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due Oct 28, by 11:59pm
+ * Topics: Portfolio review (running times, DS selection essay), Exam review (Thursday)
 * Week 8: Oct 19 - 25
  * Dr. Brinkman at ASSETS
  * Midterm Exam: Tuesday, October 21
+ * Topics: Binary search trees
+ * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Oct 28, by 11:59pm.
+* Week 9: Oct 26 - Nov 1
  * Topics: Heaps
  * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Due Nov 4, by 11:59pm
-* Week 9: Oct 26 - Nov 1
- * Topics: Graphs
 * Week 10: Nov 2 - 8
- * Topics: Graphs
+ * Topics: Space-dividing trees 
+ * Project: Closest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due Nov 11, by 11:59pm
 * Week 11: Nov 9 - 15
- * Topics: Graph traversals, Dijkstra
+ * Topics: Graphs
  * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
 * Week 12: Nov 16 - 22
- * Topics: Sorting algorithms
- * Nov. 20: In-class design session
+ * Topics: Graph traversals, Dijkstra
+ * Project: TBD
 * Week 13: Nov 23 - 29
- * Topics: Vise project
- * Project: Game project https://github.com/MiamiOH-CSE274/Vise - Due Dec 2, by start of class (we will show YouTube video demos during class)
+ * Topics: TBD
+ * Project: TBD
  * Thanksgiving break: No class Thurs
 * Week 13.5: Nov 30 - Dec 6
- * Topics: Graph project demos and project portfolio on Dec 2, exam review on Dec 4
+ * Topics: Project demos on Dec 2, exam review on Dec 4
 * Final exams: Dec 7 - 13
  * PORTFOLIO SUBMISSION: Due by 8am, Monday, Dec. 9
