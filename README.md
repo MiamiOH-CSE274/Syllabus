@@ -148,10 +148,10 @@ Schedule
  * Topics: Binary search trees
  * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Oct 28, by 11:59pm.
 * Week 9: Oct 26 - Nov 1
- * Topics: Heaps
+ * Topics: BSTs and Heaps
  * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Due Nov 4, by 11:59pm
 * Week 10: Nov 2 - 8
- * Topics: Space-dividing trees 
+ * Topics: Heaps and Space-dividing trees 
  * Project: Closest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due Nov 11, by 11:59pm
 * Week 11: Nov 9 - 15
  * Topics: Graphs
