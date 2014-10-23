@@ -145,14 +145,14 @@ Schedule
 * Week 8: Oct 19 - 25
  * Dr. Brinkman at ASSETS
  * Midterm Exam: Tuesday, October 21
- * Topics: Binary search trees
- * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Oct 28, by 11:59pm.
+ * Topics: Computing running times
 * Week 9: Oct 26 - Nov 1
- * Topics: BSTs and Heaps
- * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Due Nov 4, by 11:59pm
+ * Topics: BSTs
+ * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Nov 4, by 11:59pm.
 * Week 10: Nov 2 - 8
  * Topics: Heaps and Space-dividing trees 
- * Project: Closest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due Nov 11, by 11:59pm
+ * Project: Closest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due ??, by 11:59pm
+ * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Due Nov 11, by 11:59pm
 * Week 11: Nov 9 - 15
  * Topics: Graphs
  * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
