@@ -151,7 +151,6 @@ Schedule
  * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Nov 4, by 11:59pm.
 * Week 10: Nov 2 - 8
  * Topics: Heaps and Space-dividing trees 
- * Project: Closest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due ??, by 11:59pm
  * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Due Nov 11, by 11:59pm
 * Week 11: Nov 9 - 15
  * Topics: Graphs
