@@ -165,4 +165,4 @@ Schedule
 * Week 13.5: Nov 30 - Dec 6
  * Topics: Project demos on Dec 2, exam review on Dec 4
 * Final exams: Dec 7 - 13
- * PORTFOLIO SUBMISSION: Due by 8am, Monday, Dec. 9
+ * PORTFOLIO SUBMISSION: Due by 11:59pm, Wednesday, Dec. 10
