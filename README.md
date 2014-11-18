@@ -156,13 +156,14 @@ Schedule
  * Topics: Graphs
  * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
 * Week 12: Nov 16 - 22
- * Topics: Graph traversals, Dijkstra
- * Project: TBD
+ * Topics: Graph traversals, Dijkstra, Zeitgeist project
+ * Project: https://github.com/MiamiOH-CSE274/Zeitgeist - Stage 1 Due Nov 25, by 11:59pm.
 * Week 13: Nov 23 - 29
- * Topics: TBD
- * Project: TBD
+ * Topics: Zeitgeist project work day
+ * Project: Project: https://github.com/MiamiOH-CSE274/Zeitgeist - Stage 2 Due Dec 2, by 11:59pm.
  * Thanksgiving break: No class Thurs
 * Week 13.5: Nov 30 - Dec 6
- * Topics: Project demos on Dec 2, exam review on Dec 4
+ * Topics: Portfolio work day on Dec 2, exam review on Dec 4
 * Final exams: Dec 7 - 13
- * PORTFOLIO SUBMISSION: Due by 11:59pm, Wednesday, Dec. 10
+ * PORTFOLIO SUBMISSION: Due by 11:59pm, Wednesday, Dec 10
+ * Final exam: Thursday, Dec 11, 12:45-2:45, in regular classroom
