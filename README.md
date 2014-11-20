@@ -157,7 +157,7 @@ Schedule
  * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
 * Week 12: Nov 16 - 22
  * Topics: Graph traversals, Dijkstra, Zeitgeist project
- * Project: https://github.com/MiamiOH-CSE274/Zeitgeist - Stage 1 Due Nov 25, by 11:59pm.
+ * Project: https://github.com/MiamiOH-CSE274/Zeitgeist - Stage 1 Due Nov 25, by start of class.
 * Week 13: Nov 23 - 29
  * Topics: Zeitgeist project work day
  * Project: Project: https://github.com/MiamiOH-CSE274/Zeitgeist - Stage 2 Due Dec 2, by 11:59pm.
