@@ -160,7 +160,7 @@ Schedule
  * Project: https://github.com/MiamiOH-CSE274/Zeitgeist - Stage 1 Due Nov 25, by start of class.
 * Week 13: Nov 23 - 29
  * Topics: Zeitgeist project work day
- * Project: Project: https://github.com/MiamiOH-CSE274/Zeitgeist - Stage 2 Due Dec 2, by 11:59pm.
+ * Project: Project: https://github.com/MiamiOH-CSE274/Zeitgeist - Stage 2 Due Dec 4, by 11:59pm.
  * Thanksgiving break: No class Thurs
 * Week 13.5: Nov 30 - Dec 6
  * Topics: Portfolio work day on Dec 2, exam review on Dec 4
